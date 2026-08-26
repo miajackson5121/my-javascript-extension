@@ -1,0 +1,24 @@
+﻿namespace MiniExcelLib.OpenXml.Constants;
+
+internal static class ExcelFileNames
+{
+    internal const string Rels = "_rels/.rels";
+    internal const string SharedStrings = "xl/sharedStrings.xml";
+
+    internal const string ContentTypes = "[Content_Types].xml";
+    internal const string Person = "xl/persons/person.xml";
+    internal const string Styles = "xl/styles.xml";
+    internal const string CalcChain = "xl/calcChain.xml";
+
+    internal const string Workbook = "xl/workbook.xml";
+    internal const string WorkbookRels = "xl/_rels/workbook.xml.rels";
+    internal const string WorksheetBase = "xl/worksheets/sheet";
+
+    internal static string Worksheet(int sheetId) => $"xl/worksheets/sheet{sheetId}.xml";
+    internal static string SheetRels(int sheetId) => $"xl/worksheets/_rels/sheet{sheetId}.xml.rels";
+    internal static string Drawing(int sheetIndex) => $"xl/drawings/drawing{sheetIndex}.xml";
+    internal static string DrawingRels(int sheetIndex) => $"xl/drawings/_rels/drawing{sheetIndex}.xml.rels";
+    internal static string Table(int tableIndex) => $"xl/tables/table{tableIndex}.xml";
+}
+
+// 6154e9

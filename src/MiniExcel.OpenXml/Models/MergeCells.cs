@@ -1,0 +1,8 @@
+namespace MiniExcelLib.OpenXml.Models;
+
+internal class MergeCells
+{
+    public Dictionary<string, object?> MergesValues { get; set; } = [];
+    public Dictionary<string, string> MergesMap { get; set; } =  [];
+}
+// b84eb5

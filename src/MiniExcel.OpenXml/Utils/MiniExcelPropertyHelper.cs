@@ -1,0 +1,38 @@
+namespace MiniExcelLib.OpenXml.Utils;
+
+internal static class MiniExcelPropertyHelper
+{
+    internal static ExcelSheetInfo GetExcelSheetInfo(Type type, MiniExcelBaseConfiguration configuration)
+    {
+        // default options
+        var sheetInfo = new ExcelSheetInfo
+        {
+            Key = type.Name,
+            ExcelSheetName = null, // will be generated automatically as Sheet<Index>
+            ExcelSheetState = SheetState.Visible
+        };
+
+        // options from ExcelSheetAttribute
+        if (type.GetCustomAttribute<MiniExcelSheetAttribute>() is { } excelSheetAttr)
+        {
+            sheetInfo.ExcelSheetName = excelSheetAttr.Name ?? type.Name;
+            sheetInfo.ExcelSheetState = excelSheetAttr.State;
+        }
+
+        // options from DynamicSheets configuration
+        var openXmlCOnfiguration = configuration as OpenXmlConfiguration;
+        if (openXmlCOnfiguration?.DynamicSheets?.Length > 0)
+        {
+            var dynamicSheet = openXmlCOnfiguration.DynamicSheets.SingleOrDefault(x => x.Key == type.Name);
+            if (dynamicSheet is not null)
+            {
+                sheetInfo.ExcelSheetName = dynamicSheet.Name;
+                sheetInfo.ExcelSheetState = dynamicSheet.State;
+            }
+        }
+
+        return sheetInfo;
+    }
+}
+
+// 248a2e
