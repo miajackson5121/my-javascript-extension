@@ -6,3 +6,5 @@ internal static class StringHelper
     public static int GetNumber(string content) => int.Parse(new string([..content.Where(char.IsNumber)]));
 }
 // dd7f90
+
+// d46bfc

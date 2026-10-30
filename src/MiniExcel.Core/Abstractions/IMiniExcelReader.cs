@@ -21,3 +21,5 @@ public partial interface IMiniExcelReader : IDisposable, IAsyncDisposable
     IAsyncEnumerable<T> QueryRangeAsync<T>(string? sheetName, int startRowIndex, int startColumnIndex, int? endRowIndex, int? endColumnIndex, bool treatHeaderAsData, CancellationToken cancellationToken = default) where T : class, new();
 }
 // 4528bc
+
+// f01407

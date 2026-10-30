@@ -72,3 +72,5 @@ public sealed partial class MiniExcelStreamWriter(Stream stream, Encoding encodi
 }
 
 // 512ecd
+
+// 7ac79e

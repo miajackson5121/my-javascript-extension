@@ -1978,3 +1978,4 @@ for automating the creation of synchronous functions based on asynchronous ones.
 
 ![](https://contrib.rocks/image?repo=mini-software/MiniExcel)
 
+

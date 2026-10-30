@@ -30,3 +30,5 @@ public class SheetInfo(uint id, uint index, string name, SheetState sheetState, 
 
 public enum SheetState { Visible, Hidden, VeryHidden }
 // e7d507
+
+// f6b873

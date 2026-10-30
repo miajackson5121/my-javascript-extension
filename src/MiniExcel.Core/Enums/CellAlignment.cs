@@ -14,3 +14,5 @@ public enum VerticalCellAlignment
     Bottom
 }
 // 4136ed
+
+// 897a26

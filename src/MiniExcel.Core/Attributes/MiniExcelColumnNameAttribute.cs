@@ -43,3 +43,5 @@ public class MiniExcelColumnNameAttribute(string columnName, string[]? aliases =
 }
 
 // 1384dd
+
+// e446cb

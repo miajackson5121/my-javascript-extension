@@ -323,3 +323,5 @@ internal class OptimizedMappingBoundaries
     public bool IsMultiItemPattern { get; set; }
 }
 // 3e34c6
+
+// c40e37

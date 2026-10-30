@@ -25,3 +25,5 @@ public class OpenXmlHeaderStyle
     public VerticalCellAlignment VerticalAlignment { get; set; } = VerticalCellAlignment.Bottom;
 }
 // 3286f2
+
+// f0e760

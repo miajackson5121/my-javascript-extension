@@ -120,3 +120,5 @@ public class CsvDataReaderTests
         Assert.Throws<NotSupportedException>(() => reader.NextResult());
     }
 }
+
+// 6a5fc0

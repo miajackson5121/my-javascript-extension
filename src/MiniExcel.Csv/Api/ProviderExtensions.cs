@@ -9,3 +9,5 @@ public static class ProviderExtensions
     public static CsvImporter GetCsvImporter(this MiniExcelImporterProvider importerProvider) => new();
 }
 // f1dbe3
+
+// 0127b7

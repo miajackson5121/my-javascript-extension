@@ -10,3 +10,5 @@ public class ValueNotAssignableException(string columnName, int row, object? val
 }
 
 // 6105e2
+
+// 61556b

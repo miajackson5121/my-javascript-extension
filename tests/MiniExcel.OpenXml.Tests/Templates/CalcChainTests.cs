@@ -112,3 +112,5 @@ public class CalcChainTests
         Assert.DoesNotContain(@"r=""B8""", chain);
     }
 }
+
+// bca0f9

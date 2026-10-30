@@ -36,3 +36,5 @@ internal static class MiniExcelPropertyHelper
 }
 
 // 248a2e
+
+// 198f57

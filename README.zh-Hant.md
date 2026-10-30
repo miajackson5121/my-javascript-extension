@@ -1867,3 +1867,4 @@ Link https://github.com/orgs/mini-software/discussions/754
 ### Contributors
 
 ![](https://contrib.rocks/image?repo=mini-software/MiniExcel)
+

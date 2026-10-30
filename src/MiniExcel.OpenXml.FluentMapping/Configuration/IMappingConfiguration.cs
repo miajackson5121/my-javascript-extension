@@ -7,3 +7,5 @@ public interface IMappingConfiguration<T>
     IMappingConfiguration<T> ToWorksheet(string worksheetName);
 }
 // 23ac51
+
+// ecb8dd

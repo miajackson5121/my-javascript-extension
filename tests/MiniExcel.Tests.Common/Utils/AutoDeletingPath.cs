@@ -25,3 +25,5 @@ public class AutoDeletingPath : IDisposable
 
 public enum ExcelType { Xlsx, Csv }
 // 46534a
+
+// 4ca468

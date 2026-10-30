@@ -7,3 +7,5 @@ public class InvalidMappingException(string message, Type? type, MemberInfo? mem
     public MemberInfo? InvalidProperty { get; } = member;
 }
 // 84f5c0
+
+// c9145e

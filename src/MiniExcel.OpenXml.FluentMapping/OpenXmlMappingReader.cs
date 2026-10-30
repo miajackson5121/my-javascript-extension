@@ -176,3 +176,5 @@ internal partial class OpenXmlMappingReader(OpenXmlZip archive, IMiniExcelConfig
 }
 
 // b4b2d3
+
+// 5e2a01

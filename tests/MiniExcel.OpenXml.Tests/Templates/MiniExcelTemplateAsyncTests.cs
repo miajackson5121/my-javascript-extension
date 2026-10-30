@@ -967,3 +967,5 @@ public class MiniExcelTemplateAsyncTests
         await _excelTemplater.AddPictureAsync(path.ToString(), images: pictures);
     }
 }
+
+// 65eae4

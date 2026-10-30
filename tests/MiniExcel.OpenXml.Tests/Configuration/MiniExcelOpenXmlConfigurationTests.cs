@@ -25,3 +25,5 @@ public class MiniExcelOpenXmlConfigurationTest
         Assert.True(rows.All(x => x.Img is null or []));
     }
 }
+
+// 4e6e90

@@ -5,3 +5,5 @@ public class MiniExcelColumnWidthAttribute(double columnWidth) : MiniExcelAttrib
     public double ExcelColumnWidth { get; set; } = columnWidth;
 }
 // 1701d8
+
+// b94c62

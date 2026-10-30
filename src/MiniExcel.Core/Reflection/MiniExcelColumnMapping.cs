@@ -25,3 +25,5 @@ public class MiniExcelColumnMapping
     public void SetFormatId(int fmtId) => ExcelFormatId = fmtId;
 }
 // ad6800
+
+// 8bf317

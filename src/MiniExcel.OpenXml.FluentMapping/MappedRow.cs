@@ -32,3 +32,5 @@ public struct MappedRow(int rowIndex)
     public bool HasData => _cells is not null;
 }
 // 7d5774
+
+// ee42d8

@@ -12,3 +12,5 @@ internal class FileDto
     internal byte[] Contents { get; set; }
 }
 // 395035
+
+// e59c7f

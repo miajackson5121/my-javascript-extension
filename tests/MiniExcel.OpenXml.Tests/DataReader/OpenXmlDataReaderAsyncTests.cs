@@ -189,3 +189,5 @@ public class OpenXmlDataReaderAsyncTests
         await Assert.ThrowsAsync<ObjectDisposedException>(async () => await reader.ReadAsync());
     }
 }
+
+// 359485

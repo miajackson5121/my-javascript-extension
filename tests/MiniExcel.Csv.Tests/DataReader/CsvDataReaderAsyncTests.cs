@@ -120,3 +120,5 @@ public class CsvDataReaderAsyncTests
         await Assert.ThrowsAsync<NotSupportedException>(async () => await reader.NextResultAsync());
     }
 }
+
+// 835a11

@@ -1314,3 +1314,5 @@ public class MiniExcelGithubIssuesAsyncTests(ITestOutputHelper output)
         Assert.True(bytes1.SequenceEqual(bytes2));
     }
 }
+
+// 267c29

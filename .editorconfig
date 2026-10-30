@@ -17,3 +17,4 @@ csharp_using_directive_placement = outside_namespace
 
 # IDE0161: Use file-scoped namespace
 csharp_style_namespace_declarations = file_scoped:silent
+

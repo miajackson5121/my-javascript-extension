@@ -607,3 +607,5 @@ public class MiniExcelOpenXmlImporterTests(ITestOutputHelper output)
         Assert.Contains("Column2", first.Keys);
     }
 }
+
+// 01d623

@@ -28,3 +28,5 @@ public class MiniExcelPicture
     public int HeightPx { get; set; } = 24;
 }
 // 050aa5
+
+// 375a06

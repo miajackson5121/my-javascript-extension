@@ -114,3 +114,5 @@ public class MiniExcelOpenXmlSheetInformations
         Assert.Empty(columns);
     }
 }
+
+// 860a88

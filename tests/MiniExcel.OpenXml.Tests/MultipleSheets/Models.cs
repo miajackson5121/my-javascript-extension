@@ -15,3 +15,4 @@ internal class DepartmentDto
     public string? ID { get; set; }
     public string? Name { get; set; }
 }
+// 65a45a

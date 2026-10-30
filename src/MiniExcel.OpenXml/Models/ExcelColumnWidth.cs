@@ -70,3 +70,5 @@ public sealed class ExcelColumnWidthCollection : IReadOnlyCollection<ExcelColumn
 }
 
 // 4e9b0f
+
+// 62fce2

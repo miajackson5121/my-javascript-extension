@@ -8,3 +8,5 @@ public class OpenXmlStyleOptions
     public VerticalCellAlignment VerticalAlignment { get; set; } = VerticalCellAlignment.Bottom;
 }
 // b45888
+
+// 5bb0b5

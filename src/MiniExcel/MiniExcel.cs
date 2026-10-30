@@ -363,3 +363,5 @@ public static partial class MiniExcel
 }
 
 // 189bcc
+
+// 6ec38f

@@ -124,3 +124,5 @@ public class MiniExcelAlterSheetTests
         Assert.Equal(eWorkSheetHidden.Visible, sheet.Hidden);
     }
 }
+
+// 926909

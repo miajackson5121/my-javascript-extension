@@ -13,3 +13,4 @@ object[] data =
 
 MiniExcel.Exporters.GetOpenXmlExporter().Export("test.xlsx", data);
 Console.WriteLine("Document saved succesfully");
+// 640767

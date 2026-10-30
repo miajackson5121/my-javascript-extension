@@ -1032,3 +1032,5 @@ internal partial class OpenXmlReader : IMiniExcelReader
 }
 
 // 1c2c38
+
+// 1c3b43

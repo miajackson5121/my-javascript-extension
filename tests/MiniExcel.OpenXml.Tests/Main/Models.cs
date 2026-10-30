@@ -267,3 +267,5 @@ internal class FieldsWithoutAttributeTest
     [MiniExcelColumnName("Mapped")]
     public string? MappedField;
 }
+
+// ec2a14

@@ -23,3 +23,5 @@ public abstract class MiniExcelBaseConfiguration : IMiniExcelConfiguration
     public DateOnlyConversionMode DateOnlyConversionMode { get; set; }
 }
 // 02348d
+
+// 3efacc

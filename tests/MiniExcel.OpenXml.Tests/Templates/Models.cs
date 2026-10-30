@@ -54,3 +54,5 @@ internal class Fund
 
     public List<NetValue> NetValues { get; set; } = [];
 }
+
+// 058faf

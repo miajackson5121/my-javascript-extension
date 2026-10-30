@@ -214,3 +214,5 @@ internal sealed partial class CsvWriter : IMiniExcelWriter, IDisposable
 }
 
 // 71b69e
+
+// 89a035

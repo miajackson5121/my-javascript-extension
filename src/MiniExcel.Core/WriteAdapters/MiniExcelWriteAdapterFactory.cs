@@ -27,3 +27,5 @@ public static class MiniExcelWriteAdapterFactory
     }
 }
 // d34335
+
+// 82e9e2

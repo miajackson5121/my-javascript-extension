@@ -27,3 +27,5 @@ public class MiniExcelGiteeIssuesAsyncTests
         Assert.Equal(123456.789, result2.Test);
     }
 }
+
+// 5bfaac

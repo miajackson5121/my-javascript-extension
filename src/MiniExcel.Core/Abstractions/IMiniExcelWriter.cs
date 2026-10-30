@@ -9,3 +9,5 @@ public partial interface IMiniExcelWriter
     Task<int> InsertAsync(bool overwriteSheet = false, IProgress<int>? progress = null, CancellationToken cancellationToken = default);
 }
 // 7b92e5
+
+// 94bb7f

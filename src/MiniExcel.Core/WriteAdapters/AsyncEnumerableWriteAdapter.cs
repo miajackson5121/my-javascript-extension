@@ -84,3 +84,5 @@ internal sealed class AsyncEnumerableWriteAdapter<T>(IAsyncEnumerable<T> values,
 }
 
 // b7bc46
+
+// 4d5383

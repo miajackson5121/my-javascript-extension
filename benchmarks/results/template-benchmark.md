@@ -14,3 +14,4 @@ AMD EPYC 9V74 2.86GHz, 1 CPU, 4 logical and 2 physical cores
 | &#39;MiniExcel Fill Template&#39;            |   460.505 ms |  3.6797 ms |    67.132 ms |  37333.3333 |   333.3333 |         - |  596.96 MB |
 | &#39;ClosedXml.Report Generate Template&#39; | 5,047.767 ms | 64.9253 ms | 1,184.479 ms | 169833.3333 | 56166.6667 | 6833.3333 | 2799.89 MB |
 
+

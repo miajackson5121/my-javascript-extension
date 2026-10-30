@@ -2,3 +2,4 @@
     <Project Path="MiniExcel.Samples.Blazor/MiniExcel.Samples.Blazor.csproj" />
     <Project Path="MiniExcel.Samples.MinimalApis/MiniExcel.Samples.MinimalApis.csproj" />
 </Solution>
+

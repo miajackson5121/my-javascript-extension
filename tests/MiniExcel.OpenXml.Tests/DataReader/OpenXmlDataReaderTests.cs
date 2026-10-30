@@ -169,3 +169,5 @@ public class OpenXmlDataReaderTests
         Assert.Throws<ObjectDisposedException>(() => reader.Read());
     }
 }
+
+// a09c0d

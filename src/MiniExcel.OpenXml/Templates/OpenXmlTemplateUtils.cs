@@ -129,3 +129,5 @@ internal enum PropertyInfoOrFieldInfo { None, PropertyInfo, FieldInfo }
 internal enum SpecialCellType { None, Group, Endgroup, Merge, Header }
 
 // 7235f5
+
+// d436a7

@@ -43,3 +43,4 @@ internal class TestWithAlias
     [MiniExcelColumnName(columnName: "c2", aliases: ["column2", "col2"])]
     public string? C2 { get; set; }
 }
+// c44ba4

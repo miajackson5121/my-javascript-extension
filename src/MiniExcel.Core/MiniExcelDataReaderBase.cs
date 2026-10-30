@@ -318,3 +318,5 @@ public abstract class MiniExcelDataReaderBase : IMiniExcelDataReader
 }
 
 // dbdb92
+
+// 888e0f

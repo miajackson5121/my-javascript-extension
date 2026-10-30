@@ -26,3 +26,5 @@ public class ExcelRange(int maxRow, int maxColumn)
     public ExcelRangeElement Columns { get; } = new(1, maxColumn);
 }
 // 22c478
+
+// 2e8d4a

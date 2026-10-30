@@ -8,3 +8,5 @@ public interface IMiniExcelDataReader : IDataReader, IAsyncDisposable
 }
 
 // c160d9
+
+// 5965f0

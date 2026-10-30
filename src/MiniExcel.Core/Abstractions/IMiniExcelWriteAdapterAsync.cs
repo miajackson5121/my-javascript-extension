@@ -6,3 +6,5 @@ public interface IMiniExcelWriteAdapterAsync : IAsyncDisposable
     IAsyncEnumerable<CellWriteInfo[]> GetRowsAsync(List<MiniExcelColumnMapping> mappings, CancellationToken cancellationToken);
 }
 // 402d0e
+
+// a361a8

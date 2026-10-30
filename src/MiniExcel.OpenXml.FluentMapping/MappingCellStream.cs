@@ -242,3 +242,5 @@ internal readonly struct MappingCell(string columnLetter, int rowIndex, object? 
     public readonly object? Value = value;
 }
 // 633a62
+
+// ea8812

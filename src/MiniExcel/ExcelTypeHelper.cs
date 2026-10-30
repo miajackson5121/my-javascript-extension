@@ -37,3 +37,5 @@ internal static class ExcelTypeHelper
     }
 }
 // 30d10c
+
+// 8eb612

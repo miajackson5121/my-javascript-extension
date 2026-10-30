@@ -386,3 +386,4 @@ public class MiniExcelMappingTemplateTests
         Assert.True(string.IsNullOrEmpty(rows[4].A?.ToString()));
     }
 }
+// 588339

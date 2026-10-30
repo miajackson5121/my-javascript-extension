@@ -130,3 +130,5 @@ public class MiniExcelOpenXmlTableAsyncTests
         Assert.NotEmpty(rows);
     }
 }
+
+// 2b61c0

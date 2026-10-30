@@ -88,3 +88,5 @@ public class DynamicExcelColumn(string key) : MiniExcelColumnAttribute
 public enum ColumnType { Value, Formula }
 
 // 9dcb73
+
+// a2a00b

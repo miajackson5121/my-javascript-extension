@@ -60,3 +60,5 @@ internal class DataReaderWriteAdapter(IDataReader reader, MiniExcelBaseConfigura
 }
 
 // d17563
+
+// e4c6e8

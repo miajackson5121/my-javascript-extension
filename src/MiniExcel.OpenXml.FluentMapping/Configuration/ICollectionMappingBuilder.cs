@@ -9,3 +9,5 @@ public interface ICollectionMappingBuilder<T, TCollection> where TCollection : I
     ICollectionMappingBuilder<T, TCollection> WithItemMapping<TItem>(Action<IMappingConfiguration<TItem>> configure);
 }
 // b3278d
+
+// 12d1f1

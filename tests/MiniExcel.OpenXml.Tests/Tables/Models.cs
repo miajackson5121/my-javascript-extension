@@ -6,3 +6,5 @@ internal class QueryTableTestModel
     public int Col2 { get; set; }
     public DateTime Col3 { get; set; }
 }
+
+// 296762

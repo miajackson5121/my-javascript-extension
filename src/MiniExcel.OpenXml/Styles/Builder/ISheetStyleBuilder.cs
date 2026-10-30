@@ -7,3 +7,5 @@ internal partial interface ISheetStyleBuilder
 }
 
 // dd07ca
+
+// 9b7d7b

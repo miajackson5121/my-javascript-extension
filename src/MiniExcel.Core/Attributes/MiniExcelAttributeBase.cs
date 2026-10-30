@@ -4,3 +4,5 @@ namespace MiniExcelLib.Core.Attributes;
 public abstract class MiniExcelAttributeBase : Attribute;
 
 // 1a53e5
+
+// 513b8f

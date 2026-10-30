@@ -8,3 +8,5 @@ public class SimpleProgress: IProgress<int>
         Value += value;
     }
 }
+
+// 997e5f

@@ -46,3 +46,5 @@ internal static partial class MappingWriter<T> where T : class
 }
 
 // 0304d9
+
+// a42fa5

@@ -18,3 +18,5 @@ public partial interface IMiniExcelTemplate
     Task MergeSameCellsAsync(byte[] fileInBytes, CancellationToken cancellationToken = default);
 }
 // 5b2baf
+
+// 74a6c3

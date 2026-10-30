@@ -8,3 +8,5 @@ public static class ProviderExtensions
     public static OpenXmlTemplater GetOpenXmlTemplater(this MiniExcelTemplaterProvider templaterProvider) => new();
 }
 // 0b2a69
+
+// ed8970

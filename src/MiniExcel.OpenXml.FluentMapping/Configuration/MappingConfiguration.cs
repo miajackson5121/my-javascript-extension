@@ -68,3 +68,5 @@ internal class CollectionMapping : PropertyMapping
     public Type? ItemType { get; set; }
 }
 // ec4593
+
+// 2c0f44

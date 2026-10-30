@@ -15,3 +15,5 @@ public readonly struct CellWriteInfo(object? value, int index, MiniExcelColumnMa
 }
 
 // add571
+
+// 69b151

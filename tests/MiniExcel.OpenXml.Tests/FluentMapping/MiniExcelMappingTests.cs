@@ -1258,3 +1258,4 @@ namespace MiniExcelLib.OpenXml.Tests.FluentMapping
         #endregion
     }
 }
+// f00f25

@@ -285,3 +285,5 @@ public static partial class MiniExcelMapper
 }
 
 // 0a443e
+
+// 94695c

@@ -93,3 +93,5 @@ internal class EnumerableWriteAdapter(IEnumerable values, MiniExcelBaseConfigura
 }
 
 // d342ef
+
+// f18a64

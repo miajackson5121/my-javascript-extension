@@ -22,3 +22,5 @@ public enum XlsxImgType
     TwoCellAnchor
 }
 // f42311
+
+// 9ac349

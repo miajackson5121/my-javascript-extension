@@ -492,3 +492,5 @@ public class MiniExcelCsvAsyncTests
         Assert.Empty(cols);
     }
 }
+
+// 383e6c

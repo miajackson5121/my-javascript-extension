@@ -22,3 +22,5 @@ public class CsvConfiguration : MiniExcelBaseConfiguration
 }
 
 // c622b0
+
+// 1cf0fd

@@ -135,3 +135,4 @@ $summary = $results | Group-Object Runtime | ForEach-Object {
 
 "Summary"
 $summary | Format-Table -AutoSize
+

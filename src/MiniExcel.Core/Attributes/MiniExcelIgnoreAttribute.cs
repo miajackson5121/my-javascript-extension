@@ -5,3 +5,5 @@ public class MiniExcelIgnoreAttribute(bool ignore = true) : MiniExcelAttributeBa
     public bool Ignore { get; set; } = ignore;
 }
 // aef2fe
+
+// f6d265

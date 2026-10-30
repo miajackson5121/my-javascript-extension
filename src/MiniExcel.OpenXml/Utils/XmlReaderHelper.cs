@@ -177,3 +177,5 @@ internal static partial class XmlReaderHelper
 }
 
 // 7f020d
+
+// 747e3d

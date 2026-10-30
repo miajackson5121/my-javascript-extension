@@ -7,3 +7,5 @@ public interface IPropertyMappingBuilder<T, TProperty>
     IPropertyMappingBuilder<T, TProperty> WithFormula(string formula);
 }
 // a67ecc
+
+// ca5d07

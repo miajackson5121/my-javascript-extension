@@ -6,3 +6,5 @@ public class MemberNotSerializableException(string message, MemberInfo member)
     public MemberInfo Member { get; } = member;
 }
 // 9dcaaa
+
+// 0dea8d

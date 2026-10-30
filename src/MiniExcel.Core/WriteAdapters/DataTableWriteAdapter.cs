@@ -44,3 +44,5 @@ internal class DataTableWriteAdapter(DataTable dataTable, MiniExcelBaseConfigura
 }
 
 // e516b7
+
+// 2dfa2e

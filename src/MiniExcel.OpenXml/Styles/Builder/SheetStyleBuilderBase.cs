@@ -292,3 +292,5 @@ internal abstract partial class SheetStyleBuilderBase(SheetStyleBuilderContext c
     protected abstract Task GenerateCellXfAsync();
 }
 // a09c96
+
+// 2b2ffa

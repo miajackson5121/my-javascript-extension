@@ -1957,3 +1957,4 @@ Link https://github.com/orgs/mini-software/discussions/754
 
 ![](https://contrib.rocks/image?repo=mini-software/MiniExcel)
 
+
